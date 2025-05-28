@@ -20,8 +20,7 @@ This project implements **Linear Regression**, **Random Forest**, and **XGBoost*
 
 6. Train all models on training data.
 
-7. Evaluation Metrics
-We evaluate each model on two key metrics:
+7. Evaluation Metrics: We evaluate each model on two key metrics:
 
 ->RMSE (Root Mean Squared Error) – Measures prediction error magnitude.
 
