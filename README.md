@@ -21,14 +21,16 @@ This project implements **Linear Regression**, **Random Forest**, and **XGBoost*
 6. Train all models on training data.
 
 7. Evaluation Metrics: We evaluate each model on two key metrics:
+   
 
 ->RMSE (Root Mean Squared Error) – Measures prediction error magnitude.
 
 ->R² Score (Coefficient of Determination) – Shows how well the predictions explain the variability in target.
-      
-8. Visualize feature importance from models.
 
-** Observations / Results**
+      
+9. Visualize feature importance from models.
+
+**Observations / Results**
 
 1. Linear Regression is simple and fast, but less accurate.
 
